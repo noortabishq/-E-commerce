@@ -1,4 +1,4 @@
-# Nova - Eommerce Website
+# Nova - E-commerce Website
 Nova is a fully responsive ecommerce website, a frontend project developed using HTML, CSS and JavaScript.
 
 # GET IN TOUCH
